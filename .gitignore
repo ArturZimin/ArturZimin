@@ -1,6 +1,9 @@
 /src/
 # Created by https://www.toptal.com/developers/gitignore/api/osx,maven,windows,java,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,maven,windows,java,intellij
+.idea
+out
+*.iml
 
 ### Intellij ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
